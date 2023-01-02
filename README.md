@@ -1,1 +1,1 @@
-# Chrome-Dino-Device-Compatible
+# trex-game
